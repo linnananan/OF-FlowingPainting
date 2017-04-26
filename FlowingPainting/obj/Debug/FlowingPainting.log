@@ -1,0 +1,7 @@
+﻿  ofApp.cpp
+d:\code\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\code\of_v0.9.8_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  FlowingPainting.vcxproj -> D:\code\of_v0.9.8_vs_release\apps\myApps\FlowingPainting\bin\FlowingPainting_debug.exe
+  FlowingPainting.vcxproj -> bin\FlowingPainting_debug.pdb (Full PDB)
+  
+  	                   9	D:\code\of_v0.9.8_vs_release\export\vs\Win32\
